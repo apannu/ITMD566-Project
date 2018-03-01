@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+  <car id="1">
+	<name>Challenger</name>
+	<type>Sedan</type>
+  </car>
+  <car id="2">
+	<name>Charger</name>
+	<type>Sedan</type>
+  </car>
+  <car id="3">
+	<name>Swift</name>
+	<type>Hatchback</type>
+  </car>
+  <car id="4">
+	<name>Honda City</name>
+	<type>Sedan</type>
+  </car>
+   <car id="5">
+	<name>Honda Civic</name>
+	<type>Sedan</type>
+  </car>
+   <car id="6">
+	<name>Innova</name>
+	<type>SUV</type>
+  </car>
+</cars>
